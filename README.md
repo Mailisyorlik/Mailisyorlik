@@ -16,6 +16,8 @@ I am currently working on the [BOOST](https://www.w3.org/community/boost-01/#:~:
 I sometimes link to things I have either written or contributed to here 🔽
 - **Contributed to**:
     [Advanced Power Emission Accounting Methodologies for Large Electricity Loads](https://www.carbon-direct.com/research-and-reports/advanced-power-emission-accounting-methodologies-for-large-electricity-loads)
+- **Contributed to**:
+    [CDR and EJ in the US](https://www.carbon-direct.com/research-and-reports/carbon-dioxide-removal-and-environmental-justice-in-the-us)
 
 ## 📈 User Stats 
 
