@@ -19,11 +19,5 @@ I sometimes link to things I have either written or contributed to here 🔽
 - **Contributed to**:
     [CDR and EJ in the US](https://www.carbon-direct.com/research-and-reports/carbon-dioxide-removal-and-environmental-justice-in-the-us)
 
-## 📈 User Stats 
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mailisyorlik&show_icons=true&theme=prussian)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mailisyorlik&layout=compact&theme=solarizedlight)
-
+## 🐍
 ![GitHub Snake](https://github.com/Mailisyorlik/Mailisyorlik/blob/output/github-contribution-grid-snake.svg)
