@@ -21,9 +21,9 @@ I sometimes link to things I have either written or contributed to here 🔽
 
 ## 📈 User Stats 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mailisyorlik&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mailisyorlik&show_icons=true&theme=prussian)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mailisyorlik&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mailisyorlik&layout=compact&theme=solarizedlight)
 
 ![GitHub Snake](https://github.com/Mailisyorlik/Mailisyorlik/blob/output/github-contribution-grid-snake.svg)
