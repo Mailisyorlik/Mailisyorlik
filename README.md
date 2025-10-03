@@ -10,7 +10,7 @@ I am a Research Associate at Carbon Direct, where I work on a variety of things:
 - Geospatial statistics 🌐
 
 # 📖 Open Source Contributions
-I am currently working on the [BOOST](https://www.w3.org/community/boost-01/#:~:text=The%20Biomass%20Open%20Origin%20Standard,from%20source%20to%20end%2Duse.) biomass tracking data standard. 
+I helped with the initial version of the [BOOST](https://www.w3.org/community/boost-01/#:~:text=The%20Biomass%20Open%20Origin%20Standard,from%20source%20to%20end%2Duse.) biomass tracking data standard. 
 
 ## :pen: Writing
 I sometimes link to things I have either written or contributed to here 🔽
